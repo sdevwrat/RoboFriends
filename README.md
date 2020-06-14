@@ -10,7 +10,7 @@
 
 ## Demo
 
-Here is a working live demo : https://robo--friends.herokuapp.com/
+Here is a working live demo : https://sdevwrat.github.io/RoboFriends/
 
 ### Home Page
 
